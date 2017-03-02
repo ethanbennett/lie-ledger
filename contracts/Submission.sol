@@ -1,7 +1,6 @@
 pragma solidity ^0.4.0;
 
 contract Submission {
-    enum Status { Pending, Approved }
     
     struct Correction {
         address contributor;
@@ -12,7 +11,7 @@ contract Submission {
     
     Correction[] contributions;
     event NewContribution;
-    
+
     function create(bytes data) {
         contributions.push(Correction({
             contributor: msg.sender,
