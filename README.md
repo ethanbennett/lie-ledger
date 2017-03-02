@@ -21,5 +21,4 @@ There will be a similar JavaScript GUI to submit corrections, once the contracts
 Any way you want. There are some issues registered above in reference to the execution of the blockchain architecture and the payment algorithm.
 If you're not familiar with Solidity, feel free to reach out, and we can talk about getting some front-end implementations under way concurrently.
 
-### If you want to get involved with Ethereum, consider contributing to this project. It's an unusual application of blockchain technology
-### that promises to be exciting, educational, and substantial!
+### If you want to get involved with Ethereum, consider contributing to this project. It's an unusual application of blockchain technology that promises to be exciting, educational, and substantial!
